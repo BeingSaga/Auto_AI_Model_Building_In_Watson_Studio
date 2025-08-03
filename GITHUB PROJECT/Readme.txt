@@ -4,9 +4,6 @@ This project demonstrates the use of IBM Watson Studio's AutoAI to predict house
 
 ---
 
-
----
-
 ## 🧠 Project Description
 
 The goal of this project is to use IBM Watson Studio AutoAI to build a regression model that predicts housing prices using various categorical and numerical input features. The dataset was preprocessed and fed into AutoAI, which automatically generated multiple pipelines and selected the best one based on RMSE.
@@ -26,4 +23,5 @@ The goal of this project is to use IBM Watson Studio AutoAI to build a regressio
 
 - `AutoAI_Model.ipynb`: Code to load model, send prediction request
 - `Housing.csv`: Dataset used
+
 - `README.md`: Documentation
